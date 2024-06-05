@@ -31,10 +31,11 @@ function myHandler(req,res){
             break;
            default:
             res.end("404 Not Found")
-
         }
     })
     // console.log(req)
+
+    
     
 }
 
